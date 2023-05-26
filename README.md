@@ -1,7 +1,7 @@
 # Data Science for Social Justice Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FData-Science-Social-Justice&urlpath=lab%2Ftree%2FData-Science-Social-Justice%2F&branch=main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Data-Science-Social-Justice/HEAD)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Workshop Goals
@@ -79,7 +79,7 @@ materials for this workshop. Complete the following steps:
 You can also use the UC Berkeley Datahub to run the materials for these lessons.
 You can access the DataHub by clicking the following button:
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FData-Science-Social-Justice&urlpath=lab%2Ftree%2FData-Science-Social-Justice%2F&branch=main)
 
 The DataHub downloads this repository, along with any necessary packages, and
 allows you to run the materials in an Jupyter instance on UC Berkeley's servers.
@@ -92,7 +92,7 @@ you click on the `Data-Science-Social-Justice` folder.
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the
 cloud, by clicking this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Data-Science-Social-Justice/HEAD)
 
 By using this button, however, you cannot save your work.
 
