@@ -8,6 +8,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+data/aita_pp.csv
+
 # IPython
 profile_default/
 ipython_config.py
