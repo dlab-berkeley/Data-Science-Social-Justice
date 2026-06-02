@@ -1,0 +1,14 @@
+bokeh
+gensim
+inflect
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+spacy
+spacytextblob
+textblob
+vaderSentiment

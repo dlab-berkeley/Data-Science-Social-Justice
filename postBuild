@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -e
+python -m spacy download en_core_web_sm
+python -m textblob.download_corpora
+python - <<'PYBUILD'
+import nltk
+for package in ["averaged_perceptron_tagger", "vader_lexicon"]:
+    nltk.download(package)
+PYBUILD
